@@ -1,76 +1,102 @@
+<div align="center" width="50">
 
-## Tim's Community Chess Tournament
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
-**Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a black (solid) piece.
+<details>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
-|   | A | B | C | D | E | F | G | H |
-| - | - | - | - | - | - | - | - | - |
-| 8 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/r.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/q.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/k.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/b.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/n.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/r.png) |
-| 7 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) |
-| 6 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/n.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
-| 5 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
-| 4 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
-| 3 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) |
-| 2 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
-| 1 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/R.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/N.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/B.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/Q.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/K.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/B.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/R.png) |
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
 
-#### **BLACK (solid):** It's your move... to choose _where_ to move...
+</details>
 
-| FROM | TO - _just click one of the links_ :) |
-| ---- | -- |
-| **A7** | [A5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ca7a5%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [A6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ca7a6%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **A8** | [B8](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ca8b8%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [C8](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ca8c8%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **B7** | [B5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cb7b5%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [B6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cb7b6%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **C6** | [A5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cc6a5%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [B4](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cc6b4%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [B8](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cc6b8%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [D4](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cc6d4%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [E5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cc6e5%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **D8** | [B8](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cd8b8%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [C8](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cd8c8%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [D6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cd8d6%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [D7](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cd8d7%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **E7** | [E5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ce7e5%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [E6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ce7e6%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **E8** | [D7](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ce8d7%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **F7** | [F5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cf7f5%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [F6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cf7f6%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **G7** | [G5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cg7g5%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [G6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cg7g6%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **G8** | [F6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cg8f6%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [H6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cg8h6%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **H7** | [H5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ch7h5%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [H6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ch7h6%7C43234&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+</div>
 
-Ask a friend to take the next move: [Share on Twitter...](https://twitter.com/share?text=I'm+playing+chess+on+a+GitHub+Profile+Readme!+Can+you+please+take+the+next+move+at+https://github.com/timburgan)
+<hr></hr>
 
-**How this works**
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
+![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
+![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
-When you click a link, it opens a GitHub Issue with the required pre-populated text. Just push "Create New Issue". That will trigger a [GitHub Actions](https://github.blog/2020-07-03-github-action-hero-casey-lee/#getting-started-with-github-actions) workflow that'll update my GitHub Profile _README.md_ with the new state of the board.
+```dart
+// tools_I_use organized
 
-**Notice a problem?**
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
+    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
+    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+  };
+}
+```
 
-Raise an [issue](https://github.com/timburgan/timburgan/issues), and include the text _cc @timburgan_.
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
-**Last few moves, this game**
+<div align="center" >
+<a  href="https://github.com/SP-XD">
 
-| Move  | Who |
-| ----- | --- |
-| G2 to F3 | [@I21b](https://github.com/I21b) |
-| G4 to F3 | [@hesreallyhim](https://github.com/hesreallyhim) |
-| H2 to H3 | [@I21b](https://github.com/I21b) |
-| C8 to G4 | [@shai-tan1](https://github.com/shai-tan1) |
-| C2 to C3 | [@houhoulis](https://github.com/houhoulis) |
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
-**Top 20 Leaderboard: Most moves across all games, except me.**
+</a>
 
-| Moves | Who |
-| ----- | --- |
-| 4231 | [@JRetza](https://github.com/JRetza) |
-| 2020 | [@JohnyP36](https://github.com/JohnyP36) |
-| 1798 | [@houhoulis](https://github.com/houhoulis) |
-| 1641 | [@michaelprimo](https://github.com/michaelprimo) |
-| 1611 | [@simonberner](https://github.com/simonberner) |
-| 704 | [@donno2048](https://github.com/donno2048) |
-| 641 | [@Nomes77](https://github.com/Nomes77) |
-| 595 | [@Mmark94](https://github.com/Mmark94) |
-| 555 | [@N-NeelPatel](https://github.com/N-NeelPatel) |
-| 552 | [@automainint](https://github.com/automainint) |
-| 501 | [@ApoorvTyagi](https://github.com/ApoorvTyagi) |
-| 493 | [@cosmoglint](https://github.com/cosmoglint) |
-| 461 | [@jatin-pahuja](https://github.com/jatin-pahuja) |
-| 431 | [@mishmanners](https://github.com/mishmanners) |
-| 375 | [@dpuenteramirez](https://github.com/dpuenteramirez) |
-| 340 | [@rayssagomees](https://github.com/rayssagomees) |
-| 312 | [@rajesh545862](https://github.com/rajesh545862) |
-| 309 | [@ak811](https://github.com/ak811) |
-| 198 | [@shpatrickguo](https://github.com/shpatrickguo) |
-| 196 | [@DalpatRathore](https://github.com/DalpatRathore) |
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+
+</details>
+  
+<hr></hr>
+
+**Code Cycle**<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+
+
+<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+
+</div>
+
