@@ -12,17 +12,19 @@
 
 I’m a **Flutter developer in training**, focused on building modern mobile apps for **Android & iOS** using **Flutter & Dart**.
 
-Flutter is a UI toolkit by Google for building natively compiled applications from a single codebase .
+Flutter is a UI toolkit by Google for building natively compiled applications from a single codebase.  
+Source: https://flutter.dev/docs/get-started/install
 
 ---
 
 ## 🚀 What I Do
-- 📱 Build mobile apps with Flutter
-- 🎨 Design UI using Material & Cupertino
-- 🔥 Use Firebase for backend services
-- 🧠 Learn clean code and best practices
+- 📱 Build mobile apps with Flutter  
+- 🎨 Design UI using Material & Cupertino  
+- 🔥 Use Firebase for backend services  
+- 🧠 Learn clean code and best practices  
 
-Flutter apps are written in Dart, a language optimized for UI development .
+Flutter apps are written in Dart, a language optimized for UI development.  
+Source: https://dart.dev/guides  
 
 ---
 
