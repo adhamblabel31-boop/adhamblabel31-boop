@@ -1,52 +1,47 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>  
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>  
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
 
+<h2>👋 Hello &lt;Coders/&gt;, I'm <span style="color:#ff7a18">Adham Yasser</span></h2>
+<h4>Flutter Developer | Mobile App Enthusiast 🚀</h4>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+
+<details>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) <br>
+
+</details>
+
+![Profile Views](https://komarev.com/ghpvc/?username=AdhamYasser&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAdhamYasser&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/Adham_Yasser-grey?style=flat&logo=telegram)](https://t.me/) <br>
 </div>
 
----
+<hr>
 
-# 👋 Hi, I'm Adham Yasser  
-### Flutter Developer | Learning Mobile App Development
+## 🚀 Tools I Use
 
-I’m a **Flutter developer in training**, focused on building modern mobile apps for **Android & iOS** using **Flutter & Dart**.
-
-Flutter is a UI toolkit by Google for building natively compiled applications from a single codebase.  
-Source: https://flutter.dev/docs/get-started/install
-
----
-
-## 🚀 What I Do
-- 📱 Build mobile apps with Flutter  
-- 🎨 Design UI using Material & Cupertino  
-- 🔥 Use Firebase for backend services  
-- 🧠 Learn clean code and best practices  
-
-Flutter apps are written in Dart, a language optimized for UI development.  
-Source: https://dart.dev/guides  
-
----
-
-## 🛠️ Technologies & Tools
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-
----
-
-## 🧩 Skills Snapshot
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 
 ```dart
-class AboutMe {
-  final skills = {
-    "Languages": ["Dart", "C++", "Python"],
-    "Framework": ["Flutter"],
-    "Backend": ["Firebase"],
-    "Tools": ["Git", "VS Code", "Figma"],
-    "Platforms": ["Android", "iOS", "Windows", "Linux"]
+// About Adham Yasser
+
+class About extends Developer {
+  const myTools = {
+    "Languages": {"Dart", "C++", "Python", "JavaScript"},
+    "Frameworks": {"Flutter"},
+    "Databases": {"Firebase", "SQLite"},
+    "Editors": {"VSCode"},
+    "Platforms": {"Windows", "Linux"},
+    "OtherTools": {"Git", "Figma", "Photoshop"}
   };
 }
